@@ -1,0 +1,180 @@
+  {
+    "details": [
+      {
+        "hex": "#EFDECD",
+        "name": "Almond",
+        "lightbackground": true
+      },
+      {
+        "hex": "#CD9575",
+        "name": "Antique Brass",
+        "lightbackground": false
+      },
+      {
+        "hex": "#FDD9B5",
+        "name": "Apricot",
+        "lightbackground": true
+      },
+      {
+        "hex": "#78DBE2",
+        "name": "Aquamarine",
+        "lightbackground": true
+      },
+      {
+        "hex": "#87A96B",
+        "name": "Asparagus",
+        "lightbackground": false
+      },
+      {
+        "hex": "#FFA474",
+        "name": "Atomic Tangerine",
+        "lightbackground": false
+      },
+      {
+        "hex": "#FAE7B5",
+        "name": "Banana Mania",
+        "rgb": "(250, 231, 181)",
+        "lightbackground": true
+      },
+      {
+        "hex": "#9F8170",
+        "name": "Beaver",
+        "lightbackground": false
+      },
+      {
+        "hex": "#FD7C6E",
+        "name": "Bittersweet",
+        "lightbackground": false
+      },
+      {
+        "hex": "#000000",
+        "name": "Black",
+        "lightbackground": false
+      },
+      {
+        "hex": "#ACE5EE",
+        "name": "Blizzard Blue",
+        "lightbackground": true
+      },
+      {
+        "hex": "#1F75FE",
+        "name": "Blue",
+        "lightbackground": false
+      },
+      {
+        "hex": "#A2A2D0",
+        "name": "Blue Bell",
+        "lightbackground": false
+      },
+      {
+        "hex": "#6699CC",
+        "name": "Blue Gray",
+        "lightbackground": false
+      },
+      {
+        "hex": "#0D98BA",
+        "name": "Blue Green",
+        "lightbackground": false
+      },
+      {
+        "hex": "#7366BD",
+        "name": "Blue Violet",
+        "lightbackground": false
+      },
+      {
+        "hex": "#DE5D83",
+        "name": "Blush",
+        "lightbackground": false
+      },
+      {
+        "hex": "#CB4154",
+        "name": "Brick Red",
+        "lightbackground": false
+      },
+      {
+        "hex": "#B4674D",
+        "name": "Brown",
+        "lightbackground": false
+      },
+      {
+        "hex": "#FF7F49",
+        "name": "Burnt Orange",
+        "lightbackground": false
+      },
+      {
+        "hex": "#EA7E5D",
+        "name": "Burnt Sienna",
+        "lightbackground": false
+      },
+      {
+        "hex": "#B0B7C6",
+        "name": "Cadet Blue",
+        "lightbackground": true
+      },
+      {
+        "hex": "#FFFF99",
+        "name": "Canary",
+        "lightbackground": true
+      },
+      {
+        "hex": "#1CD3A2",
+        "name": "Caribbean Green",
+        "lightbackground": false
+      },
+      {
+        "hex": "#FFAACC",
+        "name": "Carnation Pink",
+        "lightbackground": true
+      },
+      {
+        "hex": "#DD4492",
+        "name": "Cerise",
+        "lightbackground": false
+      },
+      {
+        "hex": "#1DACD6",
+        "name": "Cerulean",
+        "lightbackground": false
+      },
+      {
+        "hex": "#BC5D58",
+        "name": "Chestnut",
+        "lightbackground": false
+      },
+      {
+        "hex": "#DD9475",
+        "name": "Copper",
+        "lightbackground": false
+      },
+      {
+        "hex": "#9ACEEB",
+        "name": "Cornflower",
+        "lightbackground": true
+      },
+      {
+        "hex": "#FFBCD9",
+        "name": "Cotton Candy",
+        "lightbackground": true
+      },
+      {
+        "hex": "#FDDB6D",
+        "name": "Dandelion",
+        "lightbackground": true
+      },
+      {
+        "hex": "#1CAC78",
+        "name": "Green",
+        "lightbackground": false
+      },
+      {
+        "hex": "#EE204D",
+        "name": "Red",
+        "lightbackground": false
+      },
+      {
+        "hex": "#FCE883",
+        "name": "Yellow",
+        "lightbackground": true
+      }
+    ]
+  }

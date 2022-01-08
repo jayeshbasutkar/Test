@@ -1,0 +1,70 @@
+:host {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  color: #000;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #1976d2;
+  color: white;
+  font-weight: 700;
+}
+.toolbar span{
+  margin-left: 1rem;
+}
+.content {
+  display: flex;
+  margin: 82px auto 32px;
+  padding: 0 16px;
+  flex-direction: column;
+  align-items: center;
+}
+.masonry-brick:not(.highlight-card) {
+  cursor: pointer;
+}
+.masonry-brick:not(.highlight-card):hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.40);
+}
+.masonry { 
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+}
+.masonry-brick {
+  flex: auto;
+  height: 125px;
+  min-width: 150px;
+  margin: 0 8px 8px 0; /* Some gutter */
+}
+.masonry-brick:nth-child(3n+1) {
+  width: 250px;
+}
+.masonry-brick:nth-child(3n+1):nth-child(3n+2) {
+  width: 325px;
+}
+.masonry-brick:nth-child(3n+2):nth-child(3n+3) {
+  width: 180px;
+}
+.masonry-brick:nth-child(3n+3) {
+  width: 380px;
+}
+.label-search{
+  font-weight: 800;
+  font-size: large;
+}
+.card-name{
+  font-weight: 700;
+}
+.masonry-brick span {
+  line-height: 2rem;
+}
